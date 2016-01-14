@@ -59,7 +59,7 @@ Hello Perl6
 
 ## ドキュメント
 
-* [Perl 6 Language Documentation](https://doc.perl6.org/language.htmll
+* [Perl 6 Language Documentation](https://doc.perl6.org/language.html)
 * [Perl 6 Types](https://doc.perl6.org/type.html)
 * [Perl 6 Routines](https://doc.perl6.org/routine.html)
 
