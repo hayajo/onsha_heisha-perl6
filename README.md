@@ -1,5 +1,7 @@
 # はじめてのPerl6
 
+https://perl6.org/
+
 ## 用語
 
 **Perl6**:
@@ -54,4 +56,14 @@ EOF
 $ perl6 hello.p6
 Hello Perl6
 ```
+
+## ドキュメント
+
+* [Perl 6 Language Documentation](https://doc.perl6.org/language.htmll
+* [Perl 6 Types](https://doc.perl6.org/type.html)
+* [Perl 6 Routines](https://doc.perl6.org/routine.html)
+
+## モジュール
+
+* [Perl 6 Modules Directory](https://modules.perl6.org/)
 
