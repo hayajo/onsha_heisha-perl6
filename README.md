@@ -67,6 +67,6 @@ Hello Perl6
 
 * [Perl 6 Modules Directory](https://modules.perl6.org/)
 
----
+## 勉強会
 
 * [第1回](01.md)
